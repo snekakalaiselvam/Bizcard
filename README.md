@@ -11,7 +11,7 @@ BizCardX is a user-friendly tool for extracting information from business cards.
 3.Streamlit - for Create Graphical user Interface
 EasyOCR - To extract text from images
 ## Steps
-### 1.use pip install command to install the above libraries
+# 1.use pip install command to install the above libraries
 ### 2.run streamlit command
 ### 3.A webpage is displayed in browser, I have created the app with three menu options namely HOME, UPLOAD & EXTRACT, MODIFY where user has the option to upload the respective Business Card whose information has to be extracted, stored, modified or deleted if needed.
 ### 4.Once user uploads a business card, the text present in the card is extracted by easyocr library.
